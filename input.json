@@ -1,8 +1,12 @@
 {
-  "proxyList": "123.123.123.123:8080\n234.234.234.234:8080",
-  "urlList": "https://example.com\nhttps://another.com",
-  "waitFrom": 30,
-  "waitTo": 60,
-  "threads": 2,
-  "autoClicker": true
+  "proxyList": [
+    ""
+  ],
+  "urlList": [
+    ""
+  ],
+  "waitFrom": null,
+  "waitTo": null,
+  "threads": null,
+  "autoClicker": false
 }
